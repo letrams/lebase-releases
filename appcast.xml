@@ -3,6 +3,15 @@
   <channel>
     <title>Lebase</title>
     <item>
+      <title>Lebase 0.4.2</title>
+      <pubDate>Tue, 17 Nov 2026 21:52:42 +0000</pubDate>
+      <sparkle:version>271</sparkle:version>
+      <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[]]></description>
+      <enclosure url="https://github.com/letrams/lebase-releases/releases/download/v0.4.2/Lebase-0.4.2-271.zip" sparkle:edSignature="ErmYunMH/xDEEKI0wS3CR6y2Iq28ThsN4tQEMXjFkGoVWaKK+5RMWeEHkcjcSRw8nr/5mPLVdhTZV35mZKb8Cw==" length="13509380" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lebase 0.4.1</title>
       <pubDate>Tue, 17 Nov 2026 21:41:43 +0000</pubDate>
       <sparkle:version>268</sparkle:version>

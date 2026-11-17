@@ -2,5 +2,14 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Lebase</title>
+    <item>
+      <title>Lebase 0.4.0</title>
+      <pubDate>Tue, 17 Nov 2026 21:33:20 +0000</pubDate>
+      <sparkle:version>265</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Lebase оновлюється сама, а відгук іде розробнику прямо з аппки.]]></description>
+      <enclosure url="https://github.com/letrams/lebase-releases/releases/download/v0.4.0/Lebase-0.4.0-265.zip" sparkle:edSignature="fMKM29yKu4al9YC5kp/MlkQoy6SouMLkbvH9+nw5Rc9H+Kf7APedLJuJWWfyBuyicULiDW14rgaWwgYNK5sHDQ==" length="13505379" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>

@@ -3,6 +3,15 @@
   <channel>
     <title>Lebase</title>
     <item>
+      <title>Lebase 0.4.4</title>
+      <pubDate>Wed, 18 Nov 2026 23:56:07 +0000</pubDate>
+      <sparkle:version>317</sparkle:version>
+      <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Агент і модулі тепер не можуть зробити нічого назовні чи в службових файлах без твого відома, а за відгуками — «готово» на «Сьогодні», «Виправити все» в зміні модуля і чотири виправлення.]]></description>
+      <enclosure url="https://github.com/letrams/lebase-releases/releases/download/v0.4.4/Lebase-0.4.4-317.zip" sparkle:edSignature="eG2yf1LIfl4AAfTvntM3oCaL6+CPGYaIBVVMWNVnwYltJnRkAEBSPB2utQ7hWUqB6MEcE5xV3dsCZ1BUGD6FAQ==" length="13789360" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lebase 0.4.3</title>
       <pubDate>Tue, 17 Nov 2026 22:44:05 +0000</pubDate>
       <sparkle:version>277</sparkle:version>

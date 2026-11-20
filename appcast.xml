@@ -3,6 +3,15 @@
   <channel>
     <title>Lebase</title>
     <item>
+      <title>Lebase 0.7.0</title>
+      <pubDate>Fri, 20 Nov 2026 13:50:43 +0000</pubDate>
+      <sparkle:version>380</sparkle:version>
+      <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Три готові модулі з коробки — «Дейлік», «Тиждень» і «Зустрічі» — ставляться одразу, без агента, і їх можна вибрати вже під час налаштування.]]></description>
+      <enclosure url="https://github.com/letrams/lebase-releases/releases/download/v0.7.0/Lebase-0.7.0-380.zip" sparkle:edSignature="wELAiUyRnI6s2C37KnBavsmmEu4cTke2GR0kQZmaSRur5tDVqzQz/gkCYpPL2QqG7qeSzmVpoLZph9Otois4Bw==" length="15533937" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lebase 0.6.3</title>
       <pubDate>Fri, 20 Nov 2026 12:19:15 +0000</pubDate>
       <sparkle:version>376</sparkle:version>

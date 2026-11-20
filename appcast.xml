@@ -3,6 +3,15 @@
   <channel>
     <title>Lebase</title>
     <item>
+      <title>Lebase 0.5.0</title>
+      <pubDate>Fri, 20 Nov 2026 01:19:36 +0000</pubDate>
+      <sparkle:version>358</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Jira і синк бази тепер налаштовуються прямо в Lebase, Збір працює без жодних налаштувань, а для експериментів з&#x27;явилась Лабораторія.]]></description>
+      <enclosure url="https://github.com/letrams/lebase-releases/releases/download/v0.5.0/Lebase-0.5.0-358.zip" sparkle:edSignature="s3gwQwfUaDPhmQ4nFEjg+EKHmltiR/BB8SDRD7B4iFzXD60znLGAFc2pervuaVao5unlLopCxuqgTWmXIu/iDw==" length="14780411" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lebase 0.4.6</title>
       <pubDate>Thu, 19 Nov 2026 09:37:04 +0000</pubDate>
       <sparkle:version>338</sparkle:version>

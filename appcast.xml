@@ -3,6 +3,15 @@
   <channel>
     <title>Lebase</title>
     <item>
+      <title>Lebase 0.6.1</title>
+      <pubDate>Fri, 20 Nov 2026 11:10:01 +0000</pubDate>
+      <sparkle:version>369</sparkle:version>
+      <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Lebase сама читає Календар macOS: зустрічі на «Сьогодні» і в «Мітах» одразу, без чекання Збору.]]></description>
+      <enclosure url="https://github.com/letrams/lebase-releases/releases/download/v0.6.1/Lebase-0.6.1-369.zip" sparkle:edSignature="dXlIPAurWOi3BneU+fhceFZqaMFvlV7yW+FQXxtJcUEjdbveD3awWJ4iO61qEnzmgHvdCBriV5eGP6RX1M8eDA==" length="15363573" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lebase 0.6.0</title>
       <pubDate>Fri, 20 Nov 2026 09:59:45 +0000</pubDate>
       <sparkle:version>365</sparkle:version>

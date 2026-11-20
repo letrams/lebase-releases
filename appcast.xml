@@ -3,6 +3,15 @@
   <channel>
     <title>Lebase</title>
     <item>
+      <title>Lebase 0.8.0</title>
+      <pubDate>Fri, 20 Nov 2026 15:58:38 +0000</pubDate>
+      <sparkle:version>388</sparkle:version>
+      <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Новий крок «Твоя база» в налаштуванні, хвости прямо з розмови з агентом, профілі Claude по сферах і чернетки блоків від агента на «Сьогодні».]]></description>
+      <enclosure url="https://github.com/letrams/lebase-releases/releases/download/v0.8.0/Lebase-0.8.0-388.zip" sparkle:edSignature="dp5VfArU/j50qUOR79WQSuo5FZPeduX126MemKae2Kt6DWGePit6K7wPkijFc+S3/1X7GGXMwMSM0CyQadpgBQ==" length="15857556" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lebase 0.7.0</title>
       <pubDate>Fri, 20 Nov 2026 13:50:43 +0000</pubDate>
       <sparkle:version>380</sparkle:version>

@@ -3,6 +3,15 @@
   <channel>
     <title>Lebase</title>
     <item>
+      <title>Lebase 0.6.3</title>
+      <pubDate>Fri, 20 Nov 2026 12:19:15 +0000</pubDate>
+      <sparkle:version>376</sparkle:version>
+      <sparkle:shortVersionString>0.6.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[В історії змін видно, що робить iCloud і що прийшло з іншого Mac, а назви файлів кирилицею більше не ламаються.]]></description>
+      <enclosure url="https://github.com/letrams/lebase-releases/releases/download/v0.6.3/Lebase-0.6.3-376.zip" sparkle:edSignature="flrn4gzr+qRb99wgflpaQgAiAGkctkoM/7PVr2fx8CfoUIEl7E7j6FisMKU9hCAUfC+7m6Da2mDu6RykzekuDQ==" length="15451729" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lebase 0.6.2</title>
       <pubDate>Fri, 20 Nov 2026 11:48:49 +0000</pubDate>
       <sparkle:version>373</sparkle:version>

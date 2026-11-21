@@ -3,6 +3,15 @@
   <channel>
     <title>Lebase</title>
     <item>
+      <title>Lebase 0.9.2</title>
+      <pubDate>Sat, 21 Nov 2026 14:05:31 +0000</pubDate>
+      <sparkle:version>448</sparkle:version>
+      <sparkle:shortVersionString>0.9.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Lebase більше не закривається сама, коли скрипт модуля не вкладається в хвилину.]]></description>
+      <enclosure url="https://github.com/letrams/lebase-releases/releases/download/v0.9.2/Lebase-0.9.2-448.zip" sparkle:edSignature="GplIINmr8pYbSl0EvbUsUljl5pqVyHREuSzDvVXp7MgCtRU82sQUgTP/3V2AW2TyWBs4KaJV0gwkV5k/dJBDBQ==" length="17490626" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lebase 0.9.1</title>
       <pubDate>Sat, 21 Nov 2026 13:22:04 +0000</pubDate>
       <sparkle:version>445</sparkle:version>

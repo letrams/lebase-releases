@@ -3,6 +3,15 @@
   <channel>
     <title>Lebase</title>
     <item>
+      <title>Lebase 0.9.1</title>
+      <pubDate>Sat, 21 Nov 2026 13:22:04 +0000</pubDate>
+      <sparkle:version>445</sparkle:version>
+      <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Зрозуміліший розбір тижня і надійніший правий ⌘.]]></description>
+      <enclosure url="https://github.com/letrams/lebase-releases/releases/download/v0.9.1/Lebase-0.9.1-445.zip" sparkle:edSignature="5u8G0IlSdqX3ZMG1jiDhfxuoOrJ3EDBfrGT3jj+OU2ONi+Gp8dOquf+Bd3QewggWPeZ8WO3ZsRy5v8FIcqzHDQ==" length="17489172" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lebase 0.9.0</title>
       <pubDate>Sat, 21 Nov 2026 12:21:27 +0000</pubDate>
       <sparkle:version>442</sparkle:version>

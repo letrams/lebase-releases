@@ -3,6 +3,15 @@
   <channel>
     <title>Lebase</title>
     <item>
+      <title>Lebase 0.9.0</title>
+      <pubDate>Sat, 21 Nov 2026 12:21:27 +0000</pubDate>
+      <sparkle:version>442</sparkle:version>
+      <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Нова сітка на «Сьогодні», модулі, що бачать задачі й міти через Lebase, приватний GitHub без командного рядка, Touch ID перед діями назовні і Збір на Opus — удвічі дешевше.]]></description>
+      <enclosure url="https://github.com/letrams/lebase-releases/releases/download/v0.9.0/Lebase-0.9.0-442.zip" sparkle:edSignature="Gi2YaGZKddU6GnavNhvf8SDq4sgkcFH0uDDXkjfuyp7NrqK3MSI3SRlNocTwEgAytv6mX2mtgNZAg7KO4A9/BA==" length="17486867" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lebase 0.8.0</title>
       <pubDate>Fri, 20 Nov 2026 15:58:38 +0000</pubDate>
       <sparkle:version>388</sparkle:version>

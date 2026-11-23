@@ -3,6 +3,15 @@
   <channel>
     <title>Lebase</title>
     <item>
+      <title>Lebase 0.9.3</title>
+      <pubDate>Mon, 23 Nov 2026 17:46:06 +0000</pubDate>
+      <sparkle:version>457</sparkle:version>
+      <sparkle:shortVersionString>0.9.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Онбординг краще працює зі своєю папкою нотаток, а Lebase більше не завмирає на запиті доступу до Keychain.]]></description>
+      <enclosure url="https://github.com/letrams/lebase-releases/releases/download/v0.9.3/Lebase-0.9.3-457.zip" sparkle:edSignature="+K4xlmIhEqTwLoGzJVqT5WrJcBdx2Hpkb9llaJfyc+7h6d/rGNObMeMC0lzUtZMTa6RAJKDeG3KSqHHf8yReCg==" length="17573157" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lebase 0.9.2</title>
       <pubDate>Sat, 21 Nov 2026 14:05:31 +0000</pubDate>
       <sparkle:version>448</sparkle:version>

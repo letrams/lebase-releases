@@ -3,6 +3,15 @@
   <channel>
     <title>Lebase</title>
     <item>
+      <title>Lebase 0.9.6</title>
+      <pubDate>Tue, 24 Nov 2026 10:04:13 +0000</pubDate>
+      <sparkle:version>466</sparkle:version>
+      <sparkle:shortVersionString>0.9.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Lebase з архіву знову відкривається на macOS 26.]]></description>
+      <enclosure url="https://github.com/letrams/lebase-releases/releases/download/v0.9.6/Lebase-0.9.6-466.zip" sparkle:edSignature="NpM62R1IPUzFHVFOxMrdfu2xHOI+KNYfh4vw2TpewKAiFwwQIy3BC2CkdsioGOsXWpmpVl998XT3Gb0vMgOXBA==" length="17569188" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lebase 0.9.5</title>
       <pubDate>Mon, 23 Nov 2026 18:42:40 +0000</pubDate>
       <sparkle:version>464</sparkle:version>

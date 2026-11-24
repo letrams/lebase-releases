@@ -3,6 +3,15 @@
   <channel>
     <title>Lebase</title>
     <item>
+      <title>Lebase 0.9.7</title>
+      <pubDate>Tue, 24 Nov 2026 20:21:30 +0000</pubDate>
+      <sparkle:version>511</sparkle:version>
+      <sparkle:shortVersionString>0.9.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Збір перестав плодити дублікати і знову кладе прийняте у Хвости, а локальна модель Apple допомагає тримати лад у задачах.]]></description>
+      <enclosure url="https://github.com/letrams/lebase-releases/releases/download/v0.9.7/Lebase-0.9.7-511.zip" sparkle:edSignature="FifoUEC9agKHmn14kx3QClDNCq+/h6PRZuWaSaYP+4zOxliyNck12or4e7FsFfNpMZAK0aabj5E8P90r7qgMAg==" length="18053095" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lebase 0.9.6</title>
       <pubDate>Tue, 24 Nov 2026 10:04:13 +0000</pubDate>
       <sparkle:version>466</sparkle:version>

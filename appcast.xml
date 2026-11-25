@@ -3,6 +3,15 @@
   <channel>
     <title>Lebase</title>
     <item>
+      <title>Lebase 0.9.8</title>
+      <pubDate>Wed, 25 Nov 2026 23:59:47 +0000</pubDate>
+      <sparkle:version>555</sparkle:version>
+      <sparkle:shortVersionString>0.9.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Модулі входять у сервіси через браузер без команд у терміналі, тред показує, які файли змінив агент, а вікно в повному екрані більше не губиться.]]></description>
+      <enclosure url="https://github.com/letrams/lebase-releases/releases/download/v0.9.8/Lebase-0.9.8-555.zip" sparkle:edSignature="5EOFpZVEm+fgHzhdUE20uwxVcS0cIJhITLSWoV+MgqccvcObYtUk987n4BVU81RAIieT6/UvOSQDN0noMQN7CQ==" length="18774659" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lebase 0.9.7</title>
       <pubDate>Tue, 24 Nov 2026 20:21:30 +0000</pubDate>
       <sparkle:version>511</sparkle:version>

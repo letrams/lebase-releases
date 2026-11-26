@@ -3,6 +3,15 @@
   <channel>
     <title>Lebase</title>
     <item>
+      <title>Lebase 0.9.9</title>
+      <pubDate>Thu, 26 Nov 2026 09:19:39 +0000</pubDate>
+      <sparkle:version>566</sparkle:version>
+      <sparkle:shortVersionString>0.9.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Локальну модель видно по видах, для тімліда з&#x27;явились шаблони модулів «Релізи і чергування» та «Онбординг новачка», а головне вікно пам&#x27;ятає розмір окремо для кожного набору екранів.]]></description>
+      <enclosure url="https://github.com/letrams/lebase-releases/releases/download/v0.9.9/Lebase-0.9.9-566.zip" sparkle:edSignature="5+waCl53v2bPd4i3vAxSQK+bz2YbWjBpLW+PGafxD1KngHxuNhJcXqQcLvSFCD40y2ATzDdNQII4o4LlFxmmCg==" length="18863546" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lebase 0.9.8</title>
       <pubDate>Wed, 25 Nov 2026 23:59:47 +0000</pubDate>
       <sparkle:version>555</sparkle:version>

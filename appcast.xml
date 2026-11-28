@@ -3,6 +3,15 @@
   <channel>
     <title>Lebase</title>
     <item>
+      <title>Lebase 0.9.10</title>
+      <pubDate>Sat, 28 Nov 2026 12:50:57 +0000</pubDate>
+      <sparkle:version>569</sparkle:version>
+      <sparkle:shortVersionString>0.9.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Розбір тижня діє від першого кліку, а «Порядок» на «Сьогодні» більше не зникає після «Не треба».]]></description>
+      <enclosure url="https://github.com/letrams/lebase-releases/releases/download/v0.9.10/Lebase-0.9.10-569.zip" sparkle:edSignature="Egap8FCXSHAmhbC0YicE6+5YPE7yLsJJYVaMwG/CSRUmkM0Go7S7IpjIax1vkzMEAgm6Sh7bWhTlr9j2EXRVCA==" length="18863494" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lebase 0.9.9</title>
       <pubDate>Thu, 26 Nov 2026 09:19:39 +0000</pubDate>
       <sparkle:version>566</sparkle:version>
